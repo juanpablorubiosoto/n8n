@@ -2,3 +2,5 @@
 **/*.tfstate*
 **/*.tfvars
 privatekey.pem
+
+.DS_Store

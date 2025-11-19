@@ -3,3 +3,5 @@ storybook-static
 
 # Auto-generated
 src/components.d.ts
+
+.DS_Store

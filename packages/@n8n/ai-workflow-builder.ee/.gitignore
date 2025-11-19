@@ -2,3 +2,5 @@ evaluations/results/*
 evaluations/nodes.json
 .prompts/
 categorization-summary*
+
+.DS_Store
